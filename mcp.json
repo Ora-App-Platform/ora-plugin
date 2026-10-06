@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ora": {
+      "url": "https://www.oraapp.com/api/mcp/ora"
+    }
+  }
+}

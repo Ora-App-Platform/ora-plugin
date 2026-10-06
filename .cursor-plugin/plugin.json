@@ -1,0 +1,16 @@
+{
+  "name": "ora",
+  "version": "1.0.0",
+  "description": "Create, price, publish and share events on Ora, follow ticket sales and payouts, and find Ora events near you — from the chat. Tickets are always bought on oraapp.com.",
+  "author": {
+    "name": "Kivo Ora Corp",
+    "email": "help@oraapp.com"
+  },
+  "homepage": "https://www.oraapp.com",
+  "repository": "https://github.com/Ora-App-Platform/ora-plugin",
+  "license": "MIT",
+  "keywords": ["events", "tickets", "ticketing", "organizers", "event-marketing", "mcp"],
+  "logo": "assets/logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
